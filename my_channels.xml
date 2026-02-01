@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_G" site_id="200">NHK G HD</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_E" site_id="202">NHK E HD</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Nippon_TV" site_id="1040">日テレ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TBS" site_id="1048">TBS</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_TV" site_id="1056">フジテレビ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Asahi" site_id="1064">テレビ朝日</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Tokyo" site_id="1072">テレビ東京</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX1" site_id="23608">TOKYO MX1</channel>
+  
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_BS" site_id="101">NHK BS</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_NTV" site_id="141">BS日テレ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Asahi" site_id="151">BS朝日</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_TBS" site_id="161">BS TBS</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_TVTokyo" site_id="171">BSテレ东</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Fuji" site_id="181">BSフジ</channel>
+</channels>
