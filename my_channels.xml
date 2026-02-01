@@ -1,18 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_G" site_id="200">NHK G HD</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_E" site_id="202">NHK E HD</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Nippon_TV" site_id="1040">日テレ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_G" site_id="200">NHK総合</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_E" site_id="202">NHK Eテレ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Nippon_TV" site_id="1040">日本テレビ</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TBS" site_id="1048">TBS</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_TV" site_id="1056">フジテレビ</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Asahi" site_id="1064">テレビ朝日</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Tokyo" site_id="1072">テレビ東京</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX1" site_id="23608">TOKYO MX1</channel>
-  
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX2" site_id="23610">TOKYO MX2</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="tvk" site_id="24632">tvk</channel>
+
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NHK_BS" site_id="101">NHK BS</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_NTV" site_id="141">BS日テレ</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Asahi" site_id="151">BS朝日</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_TBS" site_id="161">BS TBS</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_TVTokyo" site_id="171">BSテレ东</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_TBS" site_id="161">BS-TBS</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_TVTokyo" site_id="171">BSテレ東</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Fuji" site_id="181">BSフジ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="WOWOW_Prime" site_id="191">WOWOWプライム</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="WOWOW_Live" site_id="192">WOWOWライブ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="WOWOW_Cinema" site_id="193">WOWOWシネマ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Star_Channel_1" site_id="201">スターチャンネル1</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS11" site_id="211">BS11イレブン</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS12_TwellV" site_id="222">BS12トゥエルビ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Shochiku_Tokyu" site_id="260">BS松竹東急</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Japanext" site_id="263">BSJapanext</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Yoshimoto" site_id="265">BSよしもと</channel>
+
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="J_SPORTS_1" site_id="402">J SPORTS 1</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="J_SPORTS_2" site_id="403">J SPORTS 2</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="J_SPORTS_3" site_id="404">J SPORTS 3</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="J_SPORTS_4" site_id="405">J SPORTS 4</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="GAORA" site_id="406">GAORA SPORTS</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Golf_Network" site_id="407">ゴルフネットワーク</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Nittele_G_plus" site_id="408">日テレジータス</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Movie_Plus" site_id="450">ムービープラス</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Neco" site_id="451">映画・チャンネルNECO</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Nihon_Eiga_Special" site_id="452">日本映画専門ch</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fox_Movies" site_id="453">ザ・シネマ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Lala_TV" site_id="500">女性ch/LaLa TV</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Monodo_TV" site_id="503">MONDO TV</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Disney_Channel" site_id="603">ディズニー・チャンネル</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Animax" site_id="600">アニマックス</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Kids_Station" site_id="602">キッズステーション</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="AT_X" site_id="601">AT-X</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Cartoon_Network" site_id="604">カートゥーン ネットワーク</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="History_Channel" site_id="553">ヒストリーチャンネル</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="NatGeo" site_id="552">ナショジオ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Discovery_Channel" site_id="551">ディスカバリー</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="CNNj" site_id="566">CNNj</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="MTV_Japan" site_id="650">MTV</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Music_On_TV" site_id="651">MUSIC ON! TV</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Space_Shower_TV" site_id="652">スペースシャワーTV</channel>
 </channels>
