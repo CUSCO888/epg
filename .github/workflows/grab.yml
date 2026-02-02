@@ -1,0 +1,41 @@
+name: grab epg
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Grab EPG
+        run: npm run grab -- --channels=my_channels.xml --maxConnections=10 --gzip
+        
+      - name: Commit and push guide.xml
+        run: |
+          git config user.name "iptv-bot[bot]"
+          git config user.email "84861620+iptv-bot[bot]@users.noreply.github.com"
+          git add guide.xml.gz
+          # Remove guide.xml from gitignore if it exists there, or force add it
+          # Since we are using gzip, we add guide.xml.gz. If you want uncompressed, remove --gzip above and add guide.xml
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "[Bot] Update guide.xml"
+            git push
+          fi
