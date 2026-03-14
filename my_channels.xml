@@ -123,5 +123,6 @@
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="JidaiGeki" site_id="120_163_65406">時代劇専門</channel>
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Disney_Jr" site_id="basic_CS339">disneyJr</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="EiseiGekijo.jp" site_id="120_162_65406">衛星劇場</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Tsuri" site_id="basic_CS251">釣りビジョン</channel>
 
 </channels>
