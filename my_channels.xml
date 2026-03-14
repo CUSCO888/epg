@@ -88,9 +88,9 @@
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TBS_Ch2" site_id="120_176_65406">TBSチャンネル2</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Asahi_Ch1" site_id="120_136_65406">テレ朝チャンネル1</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Asahi_Ch2" site_id="120_188_65406">テレ朝チャンネル2</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_One" site_id="120_138_65406">フジテレビONE</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_Two" site_id="120_139_65406">フジテレビTWO</channel>
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_Next" site_id="120_137_65406">フジテレビNEXT</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_TV_One" site_id="120_138_65406">フジテレビONE</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_TV_Two" site_id="120_139_65406">フジテレビTWO</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fuji_TV_Next" site_id="120_137_65406">フジテレビNEXT</channel>
 
   <!-- From SkyPerfecTV -->
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Music_On_TV" site_id="basic_CS325">MUSIC ON! TV</channel>
@@ -103,5 +103,25 @@
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Paradise_TV" site_id="premium_946">パラダイステレビ</channel>
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Red_Cherry" site_id="premium_965">レッドチェリー</channel>
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Cherry_Bomb" site_id="premium_947">チェリーボム</channel>
+
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX2" site_id="2_23610_32736">TOKYO MX2</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Shochiku_Tokyu" site_id="4_260_16592">BS松竹東急</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Japanext" site_id="4_263_16592">BSJapanext</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Yoshimoto" site_id="4_265_16592">BSよしもと</channel>
+
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="GAORA" site_id="120_141_65406">GAORA</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Nittele_G_plus" site_id="120_142_65406">日テレジータス</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Golf_Network" site_id="120_143_65406">ゴルフネットワーク</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Fox_Movies" site_id="120_160_65406">ザ・シネマ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Eigagekijo" site_id="120_161_65406">映画・チャンネルNECO</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Family_Gekijo" site_id="basic_CS293">ファミリー劇場</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Home_Drama_Channel" site_id="basic_CS294">ホームドラマチャンネル</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="KBS_World" site_id="basic_CS317">KBS World</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Mnet" site_id="basic_CS318">Mnet</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Cartoon_Network" site_id="basic_CS331">カートゥーン ネットワーク</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="TAKARAZUKASKYSTAGE" site_id="premium_290">タカラヅカ・スカイ・ステージ</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="JidaiGeki" site_id="120_163_65406">時代劇専門</channel>
+  <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Disney_Jr" site_id="basic_CS339">disneyJr</channel>
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="EiseiGekijo.jp" site_id="120_162_65406">衛星劇場</channel>
 
 </channels>
