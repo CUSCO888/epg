@@ -10,7 +10,7 @@
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="TV_Tokyo" site_id="2_1072_32742">テレビ東京</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX1" site_id="2_23608_32391">TOKYO MX1</channel>
   <!-- MX2 often shares schedule or uses sub-id, trying user's old ID or skipping if fails -->
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX2" site_id="23610">TOKYO MX2</channel> 
+  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX2" site_id="2_23610_32736">TOKYO MX2</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="tvk" site_id="2_24632_32375">tvk</channel>
 
   <!-- 地上波 (Osaka/Kansai) -->
@@ -104,7 +104,7 @@
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Red_Cherry" site_id="premium_965">レッドチェリー</channel>
   <channel site="skyperfectv.co.jp" lang="ja" xmltv_id="Cherry_Bomb" site_id="premium_947">チェリーボム</channel>
 
-  <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="Tokyo_MX2" site_id="2_23610_32736">TOKYO MX2</channel>
+
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Shochiku_Tokyu" site_id="4_260_16592">BS松竹東急</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Japanext" site_id="4_263_16592">BSJapanext</channel>
   <channel site="tvguide.myjcom.jp" lang="ja" xmltv_id="BS_Yoshimoto" site_id="4_265_16592">BSよしもと</channel>
